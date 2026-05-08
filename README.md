@@ -1,7 +1,7 @@
 <div class="game-wrapper" tabindex="0" style="width:100%; height:100vh; overflow:hidden; outline:none;">
   <iframe
     id="game-frame"
-    src="https://somethingeasytotype.github.io/itsthat/Eagler.html"
+    src="[https://somethingeasytotype.github.io/itsthat/Eagler.html](https://eaglercraftonline.bitbucket.io/)"
     style="width:100%; height:100%; border:0; display:block;"
     allowfullscreen
   ></iframe>
@@ -25,4 +25,3 @@
     });
   })();
 </script>
-<!-- IF YOU WANT TO CHANGE WHICH IT RUNS, REPLACE "Eagler.html" with another, like "chronos.htm" CAP SENSITIVE  -->
